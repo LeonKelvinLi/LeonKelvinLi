@@ -1,225 +1,80 @@
 # Hi, I'm Leon Kelvin Li
 
-I'm a Computer Engineering student at California State University, East Bay, focused on backend systems, fintech infrastructure, AI tooling, and applied software engineering.
+**Lead Software Engineer at LOQOL · Project CTO at GOSVEA · Founder of Curio**
 
-I enjoy building scalable, well-structured systems that solve real-world problems with clarity, reliability, and long-term maintainability.
+I build products across interfaces, backend services, AI workflows, data, and deployment. I like taking an unclear product problem, understanding the workflow, and carrying it through to software people can use.
 
----
+I'm completing a **B.S. in Computer Engineering at California State University, East Bay**, expected in **2027**.
 
-## About Me
+[Portfolio](https://noctilucenty.github.io/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
 
-- Computer Engineering student at **California State University, East Bay**
-- Focused on **backend engineering, fintech systems, automation, and AI-assisted software**
-- Interested in **system architecture, clean APIs, data pipelines, and product infrastructure**
-- Currently building projects across **fintech, prediction markets, location intelligence, AI tooling, and consumer mobile apps**
-- Goal: build reliable, secure, and scalable software that connects engineering with real-world impact
+## What I'm working on
 
----
+### LOQOL — real-estate software & Charlie AI
 
-## Tech Stack
+Building seller and agent workflows across React/TypeScript, FastAPI, PostgreSQL, document automation, and cloud infrastructure.
 
-### Languages
+- Developing **Charlie AI**: deal-aware disclosure guidance grounded in property facts and document context, source references, and agent-confirmed actions.
+- Improving draft synchronization and completion rules across an **82-question disclosure interview**, preserving edits during background updates.
+- Mapping disclosure responses to a **133-field Transfer Disclosure Statement catalog**, with MLS form routing and stale-data checks.
+- Integrating **DocuSeal** signing stages, reviewable offer-PDF extraction, and checks before sending documents.
+- Improving document-read performance, Alembic migrations, Cloud Run deployments, automated checks, and release verification.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+### GOSVEA — USJOPU & training products
 
-### Backend & Data
+Architecting **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+My work at GOSVEA also includes the **ALLCPR iOS app in TestFlight**, **FirstCPR.com**, location-intelligence tools, and AI assistants for training operations and research.
 
-### Mobile & Frontend
+### Curio — released on iOS & Android
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white)
+I built and launched an AI reading and discovery app that turns scrolling into short, source-backed reads.
 
-### Tools & Platforms
+- **React, TypeScript, and Capacitor** mobile apps with **Express/PostgreSQL** backend services.
+- AI card generation, factual-risk checks, translation, and in-app explanation and quiz workflows.
+- Offline reading, saved content, and interactive scenarios, with continued iteration after release.
+- Content and distribution pipelines for video, image posts, quality checks, and publishing workflows.
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[App Store](https://apps.apple.com/app/id6781121127) · [Google Play](https://play.google.com/store/apps/details?id=app.curio.app) · [Website](https://trycurio.app)
 
----
+## Experience
 
-## Core Skills
+### LOQOL · Part-time · Remote
 
-- Backend System Architecture
-- REST API Design
-- Database Modeling & Transactions
-- Fintech Infrastructure
-- Prediction Market Systems
-- Location Intelligence Systems
-- Data Pipelines & Automation
-- AI-Assisted Development Workflows
-- Mobile App Development
-- Debugging Complex Systems
-- Product-Oriented Engineering
+| Role | Dates |
+| --- | --- |
+| **Lead Software Engineer** | Oct 2026 – Present |
+| Software Engineer | Aug 2026 – Sep 2026 |
 
----
+**Skills:** Software architecture, technical leadership, full-stack development, React, TypeScript, Python, FastAPI, PostgreSQL, AI integration, document automation.
 
-# Featured Projects
+### GOSVEA Inc · San Jose, CA · On-site
 
-## Scenara — Prediction Market Platform
+| Role | Dates |
+| --- | --- |
+| **Project CTO — USJOPU** · Part-time | Oct 2026 – Present |
+| Product Engineer · Part-time | Jul 2026 – Sep 2026 |
+| Software Engineer Intern · Internship | Jun 2026 |
 
-Scenara is a prediction-market-style platform for simulated event markets across sports, politics, news, culture, and global events.
+**Skills:** Product development, full-stack engineering, iOS development, AI agents, large language models, retrieval-augmented generation, workflow automation, Python, Git.
 
-The project explores how users predict real-world outcomes through market mechanics, simulated trading, portfolios, and event-based forecasting. It combines fintech-style backend infrastructure with a mobile-first user experience.
+## Stack I use
 
-**What it does:**
+- **Frontend & mobile:** React, TypeScript, JavaScript, TanStack Query, Vite, Capacitor, HTML/CSS.
+- **Backend & data:** Python, FastAPI, Express, REST APIs, PostgreSQL, SQLAlchemy, Alembic, Pydantic, Pandas.
+- **AI & automation:** OpenAI API, LLM integration, RAG, BM25 + semantic retrieval, source validation, content quality checks, workflow orchestration.
+- **Infrastructure & delivery:** Google Cloud Run, Docker, Git, GitHub Actions, CI/CD, Supabase, Vercel, Render, DocuSeal, Xcode, App Store Connect.
+- **Research & earlier projects:** C++, Rust, React Native, Expo, financial backtesting, and prediction-market simulation.
 
-- Lets users trade simulated prediction markets
-- Supports event-based markets across different categories
-- Tracks user balances, portfolios, and market activity
-- Uses backend APIs to manage events, prices, trades, and user actions
-- Experiments with prediction behavior, market movement, and simulated liquidity
+## More selected work
 
-**Tech:** FastAPI, PostgreSQL, React Native, TypeScript, Vercel, Render
+- **ALLCPR Site Intelligence:** combines class-performance history, demographic and workforce signals, competition, and maps to evaluate training-location opportunities. Includes validation against historical enrollment and explicit evidence limits.
+- **Mingtu:** AI research and evidence-retrieval tools using hybrid search, source ranking, and deterministic safety checks.
+- **Continuity:** persistent project context, decisions, and checkpoints for AI development workflows.
+- **Curio Automation Platform:** content creation, rendering, quality checks, publishing queues, and performance feedback for Curio.
+- **BEASTY PAGES:** a live multi-kitchen ordering product with vendor order workflows and Stripe memberships. Food card payments remain disabled.
+- **Scenara — past project, Oct 2025–Apr 2026:** built a prediction-market simulation platform with portfolios, probability pricing, PnL, and automated resolution. Wound down in April 2026.
+- **ATLAS & MIDAS:** research projects in prediction, market-data processing, and historical backtesting.
+- **Orryin & AIngle:** earlier explorations in fintech onboarding infrastructure and AI-assisted photo composition.
 
----
-
-## Curio — Swipe-Based Learning & Reading App
-
-Curio is a TikTok-style reading and curiosity app designed to make scrolling feel more valuable.
-
-Users swipe through short rabbit holes, facts, stories, books, career scenarios, and useful knowledge instead of endless low-quality content. The goal is to create a focused consumer learning experience built around curation, taste, and short-form reading.
-
-**What it does:**
-
-- Delivers short, curated rabbit holes
-- Supports swipe-based reading
-- Helps users discover facts, stories, books, careers, and scenarios
-- Includes eye-friendly reading design
-- Supports offline reading/download concepts
-- Prepares for TestFlight, App Store, landing page, and subscription flow
-
-**Tech:** iOS, Swift, Capacitor, TypeScript, HTML/CSS, App Store Connect
-
----
-
-## ALLCPR Site Intelligence Engine
-
-ALLCPR Site Intelligence is a location intelligence dashboard for analyzing where CPR/BLS training classes may perform best across the United States.
-
-The system combines historical class data, national ZIP/ZCTA demand modeling, demographic signals, commercial validation, and map-based visualization to help identify strong expansion opportunities.
-
-**What it does:**
-
-- Analyzes historical ALLCPR class performance
-- Scores ZIP codes by modeled CPR/BLS demand
-- Uses demographic and workforce signals
-- Supports course-specific scoring for AHA BLS, ARC BLS, and ARC CPR
-- Enriches top ZIPs with hospitals, schools, competitors, and commercial signals
-- Visualizes opportunity areas through interactive maps and heatmaps
-- Explains why each ZIP may be strong or weak
-- Allows ZIP comparison and recommendation logic
-
-**Tech:** Python, FastAPI, Pandas, GeoJSON, Leaflet, JavaScript, Google Maps/Places APIs, Census/ACS data
-
----
-
-## Continuity — Persistent Intelligence Layer
-
-Continuity is an AI memory and orchestration layer designed to help coding agents and AI assistants maintain project context across sessions.
-
-The goal is to make long-running software projects easier to resume by preserving decisions, project structure, checkpoints, and task history.
-
-**What it does:**
-
-- Tracks project context over time
-- Stores decisions, checkpoints, and implementation history
-- Helps AI coding agents resume work with less lost context
-- Supports orchestrator/subagent workflow concepts
-- Explores persistent memory for developer tools
-
-**Tech:** Python, TypeScript, CLI tooling, structured context storage, AI workflow automation
-
----
-
-## MIDAS — Trading Research & Backtesting System
-
-MIDAS is a research-oriented trading and strategy testing system focused on market data handling, deterministic backtesting, and historical simulation.
-
-It is designed for experimentation and infrastructure research rather than production trading.
-
-**What it does:**
-
-- Processes market data for research workflows
-- Supports historical strategy simulation
-- Provides deterministic backtesting behavior
-- Helps test trading ideas and strategy assumptions
-- Explores infrastructure patterns for financial research systems
-
-**Tech:** Rust, C++, Python, data processing, backtesting infrastructure
-
----
-
-## Orryin — Fintech Investment Platform
-
-Orryin is a fintech MVP exploring investment access for non-U.S. users interested in U.S. markets.
-
-The project focuses on backend architecture, user onboarding, investment infrastructure concepts, and mobile-first product design.
-
-**What it does:**
-
-- Explores investment platform architecture
-- Supports mobile-first fintech onboarding concepts
-- Models backend flows for users, accounts, and investment-related actions
-- Focuses on compliance-aware fintech product thinking
-
-**Tech:** Python, FastAPI, SQLAlchemy, SQLite/PostgreSQL, React Native, Expo
-
-**Source:** [Backend](https://github.com/Noctilucenty/orryin-backend-FORMER-SCENARA) · [Mobile app](https://github.com/Noctilucenty/orryin-mobile--FORMER-SCENARA)
-
----
-
-## AIngle — AI-Assisted Photo Composition
-
-AIngle explores AI-assisted photography guidance using pose, depth, and composition analysis.
-
-**What it does:**
-
-- Analyzes photo composition
-- Explores pose and depth-based guidance
-- Experiments with AI-assisted creative tools
-
-**Tech:** Python, FastAPI, computer vision pipelines
-
----
-
-# Areas of Interest
-
-- Backend Engineering
-- Fintech Infrastructure
-- Prediction Markets
-- AI Developer Tools
-- Applied Automation
-- Mobile Consumer Apps
-- Data-Driven Decision Systems
-- Location Intelligence
-- Trading Research Infrastructure
-- Scalable Product Architecture
-
----
-
-# Contact Me
-
-- LinkedIn: [Leon Kelvin Li](https://www.linkedin.com/in/leon-kelvin-li-255319254/)
-- Portfolio Website: [Portfolio](https://noctilucenty.github.io/)
+See [my portfolio](https://noctilucenty.github.io/) for project details, demos, and source links.
