@@ -39,7 +39,9 @@ I built and launched an AI reading and discovery app that turns scrolling into s
 
 ## Experience
 
-### LOQOL · Part-time · Remote
+### LOQOL · Part-time · 20 hours/week · Remote
+
+Currently the sole engineer, responsible for platform architecture, implementation, testing, and production releases.
 
 | Role | Dates |
 | --- | --- |
