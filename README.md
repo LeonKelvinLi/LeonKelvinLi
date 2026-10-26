@@ -1,12 +1,12 @@
 # Hi, I'm Leon Kelvin Li
 
-**Lead Software Engineer at LOQOL · USJOPU Project Technical Lead at GOSVEA · Founder of Curio**
+**Lead Software Engineer at LOQOL · Software Engineer at GOSVEA (USJOPU) · Founder of Curio**
 
 I build products across interfaces, backend services, AI workflows, data, and deployment. I like taking an unclear product problem, understanding the workflow, and carrying it through to software people can use.
 
 I'm completing a **B.S. in Computer Engineering at California State University, East Bay**, expected in **2027**.
 
-[Portfolio](https://noctilucenty.github.io/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
+[Portfolio](https://leonbuilds.org/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
 
 ## What I'm working on
 
@@ -22,7 +22,7 @@ Building seller and agent workflows across React/TypeScript, FastAPI, PostgreSQL
 
 ### GOSVEA — USJOPU & training products
 
-Since October 2026, leading the technical architecture of **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
+Developing **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
 
 My work at GOSVEA also includes the **ALLCPR iOS app in TestFlight**, **FirstCPR.com**, location-intelligence tools, and AI assistants for training operations and research.
 
@@ -52,12 +52,12 @@ I built and launched an AI reading and discovery app that turns scrolling into s
 
 | Role | Dates |
 | --- | --- |
-| **Product Engineer & Project Technical Lead — USJOPU** · Part-time | Jul 2026 – Present |
+| **Software Engineer** · Part-time | Jul 2026 – Present |
 | Software Engineer Intern · Internship | Jun 2026 |
 
-Project-level technical leadership for USJOPU was added in **October 2026**, building on the Product Engineer role.
+Software engineering across USJOPU and GOSVEA training products.
 
-**Skills:** Technical leadership, software architecture, product development, full-stack engineering, iOS development, AI agents, large language models, retrieval-augmented generation, workflow automation, Python, Git.
+**Skills:** Software development, product development, full-stack engineering, iOS development, AI agents, large language models, retrieval-augmented generation, workflow automation, Python, Git.
 
 ## Stack I use
 
@@ -78,4 +78,4 @@ Project-level technical leadership for USJOPU was added in **October 2026**, bui
 - **ATLAS & MIDAS:** research projects in prediction, market-data processing, and historical backtesting.
 - **Orryin & AIngle:** earlier explorations in fintech onboarding infrastructure and AI-assisted photo composition.
 
-See [my portfolio](https://noctilucenty.github.io/) for project details, demos, and source links.
+See [my portfolio](https://leonbuilds.org/) for project details, demos, and source links.
