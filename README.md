@@ -1,6 +1,6 @@
 # Hi, I'm Leon Kelvin Li
 
-**Lead Software Engineer at LOQOL · Software Engineer at GOSVEA (USJOPU) · Founder of Curio**
+**Lead Software Engineer at LOQOL · Founder of Curio · Previously Software Engineer at GOSVEA**
 
 I build products across interfaces, backend services, AI workflows, data, and deployment. I like taking an unclear product problem, understanding the workflow, and carrying it through to software people can use.
 
@@ -8,7 +8,7 @@ I'm completing a **B.S. in Computer Engineering at California State University, 
 
 [Portfolio](https://leonbuilds.org/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
 
-## What I'm working on
+## Current and selected work
 
 ### LOQOL — real-estate software & Charlie AI
 
@@ -20,11 +20,11 @@ Building seller and agent workflows across React/TypeScript, FastAPI, PostgreSQL
 - Integrating **DocuSeal** signing stages, reviewable offer-PDF extraction, and checks before sending documents.
 - Improving document-read performance, Alembic migrations, Cloud Run deployments, automated checks, and release verification.
 
-### GOSVEA — USJOPU & training products
+### GOSVEA — past work, June–early October 2026
 
-Developing **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
+Developed **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
 
-My work at GOSVEA also includes the **ALLCPR iOS app in TestFlight**, **FirstCPR.com**, location-intelligence tools, and AI assistants for training operations and research.
+My work at GOSVEA also included the **ALLCPR iOS app in TestFlight**, **FirstCPR.com**, location-intelligence tools, and AI assistants for training operations and research.
 
 ### Curio — released on iOS & Android
 
@@ -54,10 +54,10 @@ Currently the sole engineer, responsible for platform architecture, implementati
 
 | Role | Dates |
 | --- | --- |
-| **Software Engineer** · Part-time | Jul 2026 – Present |
+| **Software Engineer** · Part-time | Jul 2026 – Oct 2026 |
 | Software Engineer Intern · Internship | Jun 2026 |
 
-Software engineering across USJOPU and GOSVEA training products.
+Software engineering across USJOPU and GOSVEA training products. All GOSVEA work concluded in early October 2026.
 
 **Skills:** Software development, product development, full-stack engineering, iOS development, AI agents, large language models, retrieval-augmented generation, workflow automation, Python, Git.
 
