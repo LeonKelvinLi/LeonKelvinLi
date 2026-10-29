@@ -1,83 +1,32 @@
 # Hi, I'm Leon Kelvin Li
 
-**Lead Software Engineer at LOQOL · Founder of Curio · Previously Software Engineer at GOSVEA**
+I'm a software engineer who likes taking an idea all the way to a working product.
 
-I build products across interfaces, backend services, AI workflows, data, and deployment. I like taking an unclear product problem, understanding the workflow, and carrying it through to software people can use.
+I'm currently the **Lead Software Engineer at LOQOL**, where I'm the sole platform engineer. I build features, fix problems, test changes and handle releases. I'm also developing Charlie AI to help people work through property documents and real estate transactions. Its newer document, valuation and voice features are still being developed and tested.
 
-I'm completing a **B.S. in Computer Engineering at California State University, East Bay**.
+Outside work, I built and released **Curio**, a reading app on iOS and Android. I also build **Scenara**, a prediction-market simulator that uses live market data and virtual funds.
 
-[Portfolio](https://leonkelvinli.github.io/Noctilucenty.github.io/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
+[Portfolio](https://leonkelvinli.github.io/Noctilucenty.github.io/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app) · [Scenara](https://scenara.vercel.app)
 
-## Current and selected work
+## Selected work
 
-### LOQOL — real-estate software & Charlie AI
-
-Building seller and agent workflows across React/TypeScript, FastAPI, PostgreSQL, document automation, and cloud infrastructure.
-
-- Developing **Charlie AI**: deal-aware disclosure guidance grounded in property facts and document context, source references, and agent-confirmed actions.
-- Improving draft synchronization and completion rules across an **82-question disclosure interview**, preserving edits during background updates.
-- Mapping disclosure responses to a **133-field Transfer Disclosure Statement catalog**, with MLS form routing and stale-data checks.
-- Integrating **DocuSeal** signing stages, reviewable offer-PDF extraction, and checks before sending documents.
-- Improving document-read performance, Alembic migrations, Cloud Run deployments, automated checks, and release verification.
-
-### GOSVEA — past work, June–early October 2026
-
-Developed **USJOPU**, an AI-powered learning and project platform that turns business problems into skill paths, classes, staged tasks, AI/mentor feedback, and deliverables.
-
-My work at GOSVEA also included the **ALLCPR iOS app in TestFlight**, **FirstCPR.com**, location-intelligence tools, and AI assistants for training operations and research.
-
-### Curio — released on iOS & Android
-
-I built and launched an AI reading and discovery app that turns scrolling into short, source-backed reads.
-
-- **React, TypeScript, and Capacitor** mobile apps with **Express/PostgreSQL** backend services.
-- AI card generation, factual-risk checks, translation, and in-app explanation and quiz workflows.
-- Offline reading, saved content, and interactive scenarios, with continued iteration after release.
-- Content and distribution pipelines for video, image posts, quality checks, and publishing workflows.
-
-[App Store](https://apps.apple.com/app/id6781121127) · [Google Play](https://play.google.com/store/apps/details?id=app.curio.app) · [Website](https://trycurio.app)
+| Project | What I built |
+| --- | --- |
+| [Curio](https://trycurio.app) | A reading app with short articles, explanations, quizzes, translation and offline reading. I built the app, backend and store releases myself. |
+| [Scenara](https://scenara.vercel.app) | A full-stack simulator with market discovery, price charts, positions, balances and settlement. I resumed development in October 2026. |
+| [DirectorLoop](https://github.com/LeonKelvinLi/directorloop) | A video review and editing tool that explains its suggestions and checks an edit against the original. |
+| [Continuity](https://github.com/LeonKelvinLi/Continuity) | A local CLI that saves project context, decisions and checkpoints so work can continue across AI sessions. |
+| [ATLAS](https://github.com/LeonKelvinLi/ATLAS) | A research platform for testing trading ideas with reproducible checks, paper trading and controlled AI tools. It does not establish a profitable live strategy. |
+| [Mingtu](https://github.com/LeonKelvinLi/mingtu-gut-agent) | A Chinese-language research assistant that retrieves evidence, checks sources and handles health questions within defined limits. |
 
 ## Experience
 
-### LOQOL · Part-time · 20 hours/week · Remote
+- **LOQOL:** Lead Software Engineer since October 2026; Software Engineer from August to September 2026. My work covers seller and agent workflows, documents, signing, Charlie AI and releases.
+- **Curio:** Founder and sole developer since June 2026. Published on the [App Store](https://apps.apple.com/us/app/curio-feed-your-curiosity/id6781121127) and [Google Play](https://play.google.com/store/apps/details?id=app.curio.app).
+- **GOSVEA:** Software Engineer from July to early October 2026, after a June internship. Built web, mobile and AI features for USJOPU and ALLCPR.
 
-Currently the sole engineer, responsible for platform architecture, implementation, testing, and production releases.
+## Tools I work with
 
-| Role | Dates |
-| --- | --- |
-| **Lead Software Engineer** | Oct 2026 – Present |
-| Software Engineer | Aug 2026 – Sep 2026 |
+React, TypeScript, Python, FastAPI, Express, PostgreSQL, Capacitor, Docker and Google Cloud Run.
 
-**Skills:** Software architecture, technical leadership, full-stack development, React, TypeScript, Python, FastAPI, PostgreSQL, AI integration, document automation.
-
-### GOSVEA Inc · San Jose, CA · On-site
-
-| Role | Dates |
-| --- | --- |
-| **Software Engineer** · Part-time | Jul 2026 – Oct 2026 |
-| Software Engineer Intern · Internship | Jun 2026 |
-
-Software engineering across USJOPU and GOSVEA training products. All GOSVEA work concluded in early October 2026.
-
-**Skills:** Software development, product development, full-stack engineering, iOS development, AI agents, large language models, retrieval-augmented generation, workflow automation, Python, Git.
-
-## Stack I use
-
-- **Frontend & mobile:** React, TypeScript, JavaScript, TanStack Query, Vite, Capacitor, HTML/CSS.
-- **Backend & data:** Python, FastAPI, Express, REST APIs, PostgreSQL, SQLAlchemy, Alembic, Pydantic, Pandas.
-- **AI & automation:** OpenAI API, LLM integration, RAG, BM25 + semantic retrieval, source validation, content quality checks, workflow orchestration.
-- **Infrastructure & delivery:** Google Cloud Run, Docker, Git, GitHub Actions, CI/CD, Supabase, Vercel, Render, DocuSeal, Xcode, App Store Connect.
-- **Research & earlier projects:** C++, Rust, React Native, Expo, financial backtesting, and prediction-market simulation.
-
-## More selected work
-
-- **ALLCPR Site Intelligence:** combines class-performance history, demographic and workforce signals, competition, and maps to evaluate training-location opportunities. Includes validation against historical enrollment and explicit evidence limits.
-- **Mingtu:** AI research and evidence-retrieval tools using hybrid search, source ranking, and deterministic safety checks.
-- **Continuity:** persistent project context, decisions, and checkpoints for AI development workflows.
-- **Curio Automation Platform:** content creation, rendering, quality checks, publishing queues, and performance feedback for Curio.
-- **BEASTY PAGES:** a live multi-kitchen ordering product with vendor order workflows and Stripe memberships. Food card payments remain disabled.
-- **Scenara — past project, Oct 2025–Apr 2026:** built a prediction-market simulation platform with portfolios, probability pricing, PnL, and automated resolution. Wound down in April 2026.
-- **ATLAS & MIDAS:** research projects in prediction, market-data processing, and historical backtesting.
-- **Orryin & AIngle:** earlier explorations in fintech onboarding infrastructure and AI-assisted photo composition.
-
-See [my portfolio](https://leonkelvinli.github.io/Noctilucenty.github.io/) for project details, demos, and source links.
+I'm completing a B.S. in Computer Engineering at California State University, East Bay. I'm open to full-stack, backend and applied AI roles.
