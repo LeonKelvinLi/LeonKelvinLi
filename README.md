@@ -4,9 +4,9 @@
 
 I build products across interfaces, backend services, AI workflows, data, and deployment. I like taking an unclear product problem, understanding the workflow, and carrying it through to software people can use.
 
-I'm completing a **B.S. in Computer Engineering at California State University, East Bay**, expected in **2027**.
+I'm completing a **B.S. in Computer Engineering at California State University, East Bay**.
 
-[Portfolio](https://leonbuilds.org/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
+[Portfolio](https://leonkelvinli.github.io/Noctilucenty.github.io/) · [LinkedIn](https://www.linkedin.com/in/leon-kelvin-li/) · [Curio](https://trycurio.app)
 
 ## Current and selected work
 
@@ -80,4 +80,4 @@ Software engineering across USJOPU and GOSVEA training products. All GOSVEA work
 - **ATLAS & MIDAS:** research projects in prediction, market-data processing, and historical backtesting.
 - **Orryin & AIngle:** earlier explorations in fintech onboarding infrastructure and AI-assisted photo composition.
 
-See [my portfolio](https://leonbuilds.org/) for project details, demos, and source links.
+See [my portfolio](https://leonkelvinli.github.io/Noctilucenty.github.io/) for project details, demos, and source links.
