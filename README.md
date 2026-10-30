@@ -14,6 +14,7 @@ Outside work, I built and released **Curio**, a reading app on iOS and Android. 
 | --- | --- |
 | [Curio](https://trycurio.app) | A reading app with short articles, explanations, quizzes, translation and offline reading. I built the app, backend and store releases myself. |
 | [Scenara](https://github.com/LeonKelvinLi/scenara-public) · [Live app](https://scenara.vercel.app) | A full-stack simulator with market discovery, price charts, positions, balances and settlement. I resumed development in October 2026. |
+| [Clipmelt / Seam](https://github.com/LeonKelvinLi/Seam) · [Website](https://clipmelt.com) | An AI video app that suggests transitions between two clips, generates a bridge and stitches the finished edit. |
 | [DirectorLoop](https://github.com/LeonKelvinLi/directorloop) | A video review and editing tool that explains its suggestions and checks an edit against the original. |
 | [Curio Video Kit](https://github.com/LeonKelvinLi/curio-video-kit) | Tools for rendering narrated videos with animated scenes, timed captions and sound. |
 | [ATLAS](https://github.com/LeonKelvinLi/ATLAS) | A research platform for testing trading ideas with reproducible checks, paper trading and controlled AI tools. It does not establish a profitable live strategy. |
