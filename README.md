@@ -16,7 +16,6 @@ Outside work, I built and released **Curio**, a reading app on iOS and Android. 
 | [Scenara](https://github.com/LeonKelvinLi/scenara-public) · [Live app](https://scenara.vercel.app) | A full-stack simulator with market discovery, price charts, positions, balances and settlement. I resumed development in October 2026. |
 | [DirectorLoop](https://github.com/LeonKelvinLi/directorloop) | A video review and editing tool that explains its suggestions and checks an edit against the original. |
 | [Curio Video Kit](https://github.com/LeonKelvinLi/curio-video-kit) | Tools for rendering narrated videos with animated scenes, timed captions and sound. |
-| [Continuity](https://github.com/LeonKelvinLi/Continuity) | A local CLI that saves project context, decisions and checkpoints so work can continue across AI sessions. |
 | [ATLAS](https://github.com/LeonKelvinLi/ATLAS) | A research platform for testing trading ideas with reproducible checks, paper trading and controlled AI tools. It does not establish a profitable live strategy. |
 | [Mingtu](https://github.com/LeonKelvinLi/mingtu-gut-agent) | A Chinese-language research assistant that retrieves evidence, checks sources and handles health questions within defined limits. |
 
